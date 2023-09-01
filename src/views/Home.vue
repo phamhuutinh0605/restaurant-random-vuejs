@@ -1,6 +1,6 @@
 <template>
   <div class="p-8 pb-0 text-[#AE0900]">
-    <h1 class="text-4xl font-bold mb-4">Random Meals</h1>
+    <!-- <h1 class="text-4xl font-bold mb-4">Random Meals</h1> -->
   </div>
   <div class="py-8"><Offer /></div>
   <Meals :meals="meals" />

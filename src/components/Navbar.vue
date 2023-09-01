@@ -4,7 +4,7 @@
       :to="{ name: 'home' }"
       class="inline-flex items-center h-full px-5 text-[#AE0900] font-bold"
     >
-      <h2 class="text-2xl">Home</h2>
+      <h2 class="text-2xl">Random Restaurant</h2>
     </router-link>
     <div class="flex items-center gap-1">
       <router-link
